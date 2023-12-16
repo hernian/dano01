@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/lib/SamacSys_Parts.kicad_sym")(options "")(descr ""))
   (lib (name "SparkFun-Boards")(type "KiCad")(uri "${KIPRJMOD}/lib/SparkFun-KiCad-Libraries/Libraries/SparkFun-Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "Connector_Generic")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector_Generic.kicad_sym")(options "")(descr ""))
+  (lib (name "Conn_01x03_pin")(type "KiCad")(uri "${KIPRJMOD}/lib/Conn_01x03_pin.kicad_sym")(options "")(descr ""))
+  (lib (name "pro_micro_rp2040")(type "KiCad")(uri "${KIPRJMOD}/lib/pro_micro_rp2040.kicad_sym")(options "")(descr ""))
 )
